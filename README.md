@@ -8,4 +8,4 @@ I am using Python to solve AoC 2018 puzzles, as this is an excellent opportunity
 | Day | Title | Part One | Part Two | Solution |
 |---|---|:---:|:---:|:---:|
 | 1 | [Chronal Calibration](https://adventofcode.com/2018/day/1) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-01.py) |
-| 1 | [Inventory Management System](https://adventofcode.com/2018/day/2) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-02.py) |
+| 2 | [Inventory Management System](https://adventofcode.com/2018/day/2) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-02.py) |
