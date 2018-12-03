@@ -1,6 +1,6 @@
 import itertools
 
-fname = 'day-02.txt'
+fname = 'input/day-02.txt'
 
 with open(fname) as f:
     content = f.read().splitlines()
@@ -23,9 +23,9 @@ for val in content:
             three += 1
             break
 
-print(two, three, int(two)*int(three))
+print("Part 1:", two, three, int(two)*int(three))
 
 for a, b in itertools.combinations(content, 2):
     rez = [i for i in range(len(a)) if a[i] != b[i]]
     if len(rez) == 1:
-        print(a,b)
+        print("Part 2:", a,b)

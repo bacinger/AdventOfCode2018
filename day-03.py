@@ -1,7 +1,7 @@
 import re
 from collections import defaultdict
 
-fname = 'day-03.txt'
+fname = 'input/day-03.txt'
 with open(fname) as f:
     content = f.read().splitlines()
 
