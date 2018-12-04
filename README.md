@@ -12,3 +12,4 @@ Therefore, my solutions are most probably unoptimized, sometimes naive, and most
 | 1 | [Chronal Calibration](https://adventofcode.com/2018/day/1) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-01.py) |
 | 2 | [Inventory Management System](https://adventofcode.com/2018/day/2) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-02.py) |
 | 3 | [No Matter How You Slice It](https://adventofcode.com/2018/day/3) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-03.py) |
+| 4 | [Repose Record](https://adventofcode.com/2018/day/4) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-04.py) |
