@@ -18,3 +18,4 @@ Therefore, my solutions are most probably unoptimized, sometimes naive, and most
 | 7 | [The Sum of Its Parts](https://adventofcode.com/2018/day/7) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-07.py) |
 | 8 | [Memory Maneuver](https://adventofcode.com/2018/day/8) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-08.py) |
 | 9 | [Marble Mania](https://adventofcode.com/2018/day/9) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-09.py) |
+| 10 | [The Stars Align](https://adventofcode.com/2018/day/10) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-10.py) |
