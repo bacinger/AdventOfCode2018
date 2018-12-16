@@ -1,3 +1,5 @@
+# Disclaimer: Hints from a Reddit thread inspired my final solution as I was unable to parse the map and track the carts on my own.
+
 import re
 
 with open('input/day-13.txt') as f:
