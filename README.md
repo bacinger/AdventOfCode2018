@@ -20,7 +20,7 @@ Therefore, my solutions are most probably unoptimized, sometimes naive, and most
 | 9 | [Marble Mania](https://adventofcode.com/2018/day/9) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-09.py) |
 | 10 | [The Stars Align](https://adventofcode.com/2018/day/10) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-10.py) |
 | 11 | [Chronal Charge](https://adventofcode.com/2018/day/11) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-11.py) |
-| 12 | [TSubterranean Sustainability](https://adventofcode.com/2018/day/12) |  |  |  |
+| 12 | [Subterranean Sustainability](https://adventofcode.com/2018/day/12) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-12.py) |
 | 13 | [Mine Cart Madness](https://adventofcode.com/2018/day/13) |  |  |  |
 | 14 | [Chocolate Charts](https://adventofcode.com/2018/day/14) |  |  |  |
 | 15 | [Beverage Bandits](https://adventofcode.com/2018/day/15) |  |  |  |
