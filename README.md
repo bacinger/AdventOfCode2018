@@ -24,4 +24,4 @@ Therefore, my solutions are most probably unoptimized, sometimes naive, and most
 | 13 | [Mine Cart Madness](https://adventofcode.com/2018/day/13) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-13.py) |
 | 14 | [Chocolate Charts](https://adventofcode.com/2018/day/14) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-14.py) |
 | 15 | [Beverage Bandits](https://adventofcode.com/2018/day/15) |  |  |  |
-| 16 | [Chronal Classification](https://adventofcode.com/2018/day/16) |  |  |  |
+| 16 | [Chronal Classification](https://adventofcode.com/2018/day/16) | ⭐️ | ⭐️ | [Code](https://github.com/bacinger/AdventOfCode2018/blob/master/day-16.py) |
