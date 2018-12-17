@@ -101,7 +101,6 @@ indeterminate = 0
 possible = defaultdict(opcodes_keys)
 for i in inputs:
     before, op, after = map(lambda s: list(map(int, re.findall(r'-?\d+', s))), i.splitlines())
-    print(before, op, after)
     count = 0
     for opcode in opcodes:
         result = opcodes[opcode](before, op[1], op[2])
